@@ -7,7 +7,7 @@ Inspired by/copied from http://code.lancepollard.com/complete-list-of-html-meta-
 <meta charset="UTF-8">
 <meta name="keywords" content="your, tags">
 <meta name="description" content="150 words">
-<meta name="subject" content="your website"s subject">
+<meta name="subject" content="your website's subject">
 <meta name="copyright" content="company name">
 <meta name="language" content="ES">
 <meta name="robots" content="index,follow">
